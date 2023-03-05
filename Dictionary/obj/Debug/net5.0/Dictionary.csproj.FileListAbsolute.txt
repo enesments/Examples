@@ -1,0 +1,16 @@
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\bin\Debug\net5.0\Dictionary.exe
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\bin\Debug\net5.0\Dictionary.deps.json
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.json
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\bin\Debug\net5.0\Dictionary.runtimeconfig.dev.json
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\bin\Debug\net5.0\Dictionary.dll
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\bin\Debug\net5.0\Dictionary.pdb
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.csproj.AssemblyReference.cache
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.AssemblyInfo.cs
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.dll
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\refint\Dictionary.dll
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.pdb
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\Dictionary.genruntimeconfig.cache
+C:\Users\enesm\Desktop\VS\Prod\Dictionary\obj\Debug\net5.0\ref\Dictionary.dll
