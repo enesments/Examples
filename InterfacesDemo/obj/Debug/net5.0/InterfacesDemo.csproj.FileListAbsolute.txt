@@ -1,0 +1,5 @@
+C:\Users\enesm\Desktop\VS\Prod\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csproj.AssemblyReference.cache
+C:\Users\enesm\Desktop\VS\Prod\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesm\Desktop\VS\Prod\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfoInputs.cache
+C:\Users\enesm\Desktop\VS\Prod\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.AssemblyInfo.cs
+C:\Users\enesm\Desktop\VS\Prod\InterfacesDemo\obj\Debug\net5.0\InterfacesDemo.csproj.CoreCompileInputs.cache
