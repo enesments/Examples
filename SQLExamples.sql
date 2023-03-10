@@ -47,4 +47,19 @@ on p.ProductID = od.ProductID
 inner join Orders o 
 on o.OrderID = od.OrderID
 
+--Select count(*) from Products group by CategoryID having count(*)<10
 
+Select * from Products p inner join [Order Details] od
+on p.ProductID = od.ProductID
+inner join Orders o 
+on o.OrderID = od.OrderID
+
+Select Product.ProductName As ProductName,
+sum(Od.UnitPrice*Od.Quantity) As TotalPrice
+from Products Product 
+inner join [Order Details] Od
+on Product.ProductID=Od.ProductID
+inner join Orders O
+on O.OrderID=Od.OrderID
+group by Product.ProductName
+order by TotalPrice
